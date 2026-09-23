@@ -3,7 +3,7 @@
 Explica como desarrollarías una pequeña aplicacion o juego
 
 1. Problema, plataforma y lenguaje:
-Haré un pequeño juego de adivinar un número en el que el ordenador tiene un número y el jugador que este participando tratará de adivinar el número especifico de intentos. Usaré un ordenador, Python y Visual Studio Code
+Haré un pequeño juego de adivinar un número en el que el ordenador tiene un número y el jugador que este participando tratará de adivinar el número especifico de intentos. Usaré un ordenador y de lenguaje Visual Studio Code
 
 2. Algoritmo o paradigma:
 El ordenador elige un número y el jugador intenta adivinarlo en un cantidad de intentos. Compilación Imperativa (pasos y estado)
